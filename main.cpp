@@ -104,7 +104,7 @@ void LineEqual(float _value, float mod, int length, COLORREF color) {
 
 void DrawAbsLine(char* express)
 {
-
+	//////
 }
 
 
